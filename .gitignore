@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+npm-debug.log*
+.env
+*.log
+.DS_Store # macOS specific
+build/
+dist/
+coverage/
+.nyc_output/
+.vscode/ # VS Code specific settings (optional)
