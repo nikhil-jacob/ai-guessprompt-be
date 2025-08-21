@@ -1,44 +1,114 @@
 [
   {
-    "name": "Vimal",
-    "guess": "A Snail carrying a bag on a rainbow with castle in the clouds as background",
-    "score": 38,
-    "prompt": "A whimsical snail mail delivery across a rainbow bridge to a cloud castle.",
-    "date": "2025-08-14T06:01:35.498Z"
+    "name": "Anija",
+    "guess": "A robot standing under a lighted mushroom in a forest",
+    "prompt": "A tiny robot tending a giant, glowing mushroom in a whimsical forest.",
+    "score": 50,
+    "date": "2025-08-21T07:14:42.515Z"
   },
   {
-    "name": "Ashwin",
-    "guess": "Whimsical robot looking towards a glowing large flower in a full moon night",
+    "name": "Sohesh",
+    "guess": "clock roman letters melting into cup with blue liquid in space",
+    "prompt": "A clock with melting numbers drips into a teacup in space.",
+    "score": 45,
+    "date": "2025-08-21T07:44:07.986Z"
+  },
+  {
+    "name": "sabu",
+    "guess": "generate a picture of a cat in a dreamworld",
+    "prompt": "A cat wearing a tiny crown, surrounded by floating teacups.",
+    "score": 40,
+    "date": "2025-08-21T06:41:25.933Z"
+  },
+  {
+    "name": "Sanjid",
+    "guess": "A clock with roman letters hanged in a books shelf have 3rows",
+    "prompt": "A clock melting down a bookshelf in a surreal dreamscape.",
+    "score": 40,
+    "date": "2025-08-21T07:33:25.736Z"
+  },
+  {
+    "name": "Kannan",
+    "guess": "In a deep forest a small robot under the blue lighting flower",
+    "prompt": "A tiny robot tending a luminous, oversized bluebell in a misty forest.",
     "score": 33,
-    "prompt": "A tiny robot tending a luminous, otherworldly flower under a giant moon.",
-    "date": "2025-08-14T06:49:14.438Z"
+    "date": "2025-08-21T07:30:31.211Z"
   },
   {
-    "name": "Stalin",
-    "guess": "Snail carrying a mail on the rainbow path",
-    "score": 31,
-    "prompt": "A whimsical snail mail delivery across a rainbow bridge to a cloud castle.",
-    "date": "2025-08-14T06:01:35.498Z"
+    "name": "Jesna",
+    "guess": "hummingbird sucking nectar from pink flower near mechanical clock ",
+    "prompt": "A clockwork hummingbird sips nectar from a digital flower.",
+    "score": 33,
+    "date": "2025-08-21T07:37:48.447Z"
   },
   {
-    "name": "Sanjay",
-    "guess": "Whimsical robot in a garden plucking weeds",
-    "score": 27,
-    "prompt": "A tiny robot tending a glowing, otherworldly garden under a nebula.",
-    "date": "2025-08-14T08:03:00.091Z"
+    "name": "Girish",
+    "guess": "Give me a cool picture of snail with magicians cap and handmagnifer",
+    "prompt": "A whimsical snail wearing a tiny top hat and monocle.",
+    "score": 30,
+    "date": "2025-08-21T06:59:51.757Z"
   },
   {
-    "name": "bijoy ",
-    "guess": "whimsical robot plucking leaf from  blue glowing rose ",
-    "prompt": "A tiny robot tending a single, luminous blue rose in space.",
-    "score": 27,
-    "date": "2025-08-14T08:31:59.563Z"
+    "name": "Rema",
+    "guess": "give me an image of future alien on earth in a garden ",
+    "score": 20,
+    "prompt": "Whimsical robot tending a vibrant, overgrown secret garden at twilight.",
+    "date": "2025-08-21T06:07:06.046Z"
   },
   {
-    "name": "Sony",
-    "guess": "The whimsical robot looking at the moon with a big fluorescent sunflower in pale green color standing in a fantasy beautiful scenic place  ",
-    "score": 25,
-    "prompt": "A tiny robot tending a luminous, otherworldly flower under a giant moon.",
-    "date": "2025-08-14T06:49:14.438Z"
+    "name": "Shegna",
+    "guess": "Give me an image for a robot nourishing nature",
+    "score": 20,
+    "prompt": "Whimsical robot tending a vibrant, overgrown secret garden at twilight.",
+    "date": "2025-08-21T06:07:06.046Z"
+  },
+  {
+    "name": "Mubeen ",
+    "guess": "squirl with bowl in head in a forest with flowers standing b/w",
+    "score": 20,
+    "prompt": "Whimsical forest creature wearing a tiny teacup as a hat.",
+    "date": "2025-08-21T07:12:15.578Z"
+  },
+  {
+    "name": "Ihsan",
+    "guess": "squirriel carriying a bowl in forest with flowers in bg",
+    "score": 20,
+    "prompt": "Whimsical forest creature wearing a tiny teacup as a hat.",
+    "date": "2025-08-21T07:12:15.578Z"
+  },
+  {
+    "name": "aswani",
+    "guess": "ice covered clock with roman letters with time 10:10 red sec hand",
+    "prompt": "A clock made of melting ice, showing the time 3:15.",
+    "score": 20,
+    "date": "2025-08-21T07:42:04.587Z"
+  },
+  {
+    "name": "Amrutha",
+    "guess": "Robot watering red flowers with background like rainbow (colords are blue,pink,yellow)",
+    "prompt": "Whimsical robot tending a garden under a pastel sky.",
+    "score": 11,
+    "date": "2025-08-21T07:25:52.035Z"
+  },
+  {
+    "name": "Naveen",
+    "guess": "Squirrel with a bowl in head standing b/w roots of two trees",
+    "score": 10,
+    "prompt": "Whimsical forest creature wearing a tiny teacup as a hat.",
+    "date": "2025-08-21T07:12:15.578Z"
+  },
+  {
+    "name": "Georgy",
+    "guess": "Shepard looking to Horizon",
+    "prompt": "A robot dreaming of a field of electric sheep under a neon sky.",
+    "score": 0,
+    "date": "2025-08-21T07:19:24.016Z"
+  },
+  {
+    "name": "jtr",
+    "guess": "small bird over pink flower for honey",
+    "prompt": "A mechanical hummingbird sips nectar from a digital flower.",
+    "score": 0,
+    "date": "2025-08-21T07:22:28.008Z"
   }
 ]
