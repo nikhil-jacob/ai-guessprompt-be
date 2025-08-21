@@ -1,5 +1,12 @@
 [
   {
+    "name": "Arjun Suresh",
+    "guess": " image of clock on cone ice cream placed on beach",
+    "prompt": "A clock made of melting ice cream on a sunny beach.",
+    "score": 55,
+    "date": "2025-08-21T07:49:11.327Z"
+  },
+  {
     "name": "Anija",
     "guess": "A robot standing under a lighted mushroom in a forest",
     "prompt": "A tiny robot tending a giant, glowing mushroom in a whimsical forest.",
@@ -82,6 +89,13 @@
     "prompt": "A clock made of melting ice, showing the time 3:15.",
     "score": 20,
     "date": "2025-08-21T07:42:04.587Z"
+  },
+  {
+    "name": "Anjali",
+    "guess": "Cut AI cat with crown",
+    "prompt": "A cosmic cat wearing a tiny crown floats through a nebula.",
+    "score": 18,
+    "date": "2025-08-21T07:50:20.321Z"
   },
   {
     "name": "Amrutha",
